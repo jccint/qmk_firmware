@@ -9,6 +9,8 @@
         "**/*.bin": true
     },
     "files.associations": {
+        "*.p8": "lua",
+        "*.blade.php": "blade",
         "*.h": "c",
         "*.c": "c",
         "*.inc": "c",
@@ -17,7 +19,8 @@
         "xstddef": "c",
         "type_traits": "c",
         "utility": "c",
-        "ranges": "c"
+        "ranges": "c",
+        "variant": "c"
     },
     "[markdown]": {
         "editor.trimAutoWhitespace": false,
